@@ -1,11 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.yourname.apocgame" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
-  <name>Apocalyptic Idle</name>
-  <description>Idle clicker apocalypse survival game.</description>
-  <author email="you@example.com" href="https://yourwebsite.com">Your Name</author>
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.apocalypse.idleclicker" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Apocalypse Idle Clicker</name>
+  <description>An apocalyptic idle clicker game.</description>
+  <author email="dev@example.com">Creator</author>
   <content src="index.html" />
+  <access origin="*" />
   <preference name="Fullscreen" value="true" />
   <preference name="Orientation" value="portrait" />
-  <allow-intent href="http://*/*" />
-  <allow-intent href="https://*/*" />
 </widget>

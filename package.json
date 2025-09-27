@@ -1,9 +1,9 @@
 {
-  "name": "apocgame",
+  "name": "apocalypse-idle-clicker",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo Build step not needed"
+    "build": "echo 'Build step placeholder'"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {}
 }
